@@ -22,7 +22,7 @@ export const myTheme = {
             img: img2,
             titleCard: 'Title One',
             textCard: 'Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.',
-            colorFrameCard: '#FEF3C7',
+            colorFrameCard: 'linear-gradient(to right, rgba(255, 0, 0, 0.5) 0%, rgba(255, 165, 0, 0.5) 16%, rgba(255, 255, 0, 0.5) 33%, rgba(0, 128, 0, 0.5) 50%, rgba(0, 0, 255, 0.5) 66%, rgba(75, 0, 130, 0.5) 83%, rgba(238, 130, 238, 0.5) 100%)',
             colorBtnLink: '#F59E0B',
             colorBtn: '#FFFFFF',
         },
